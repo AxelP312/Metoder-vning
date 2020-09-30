@@ -1,0 +1,13 @@
+C:\Users\axel.petersson2\Dropbox\programmering\programmering 2\MetoderÖvning\Metoder\bin\Debug\netcoreapp3.1\Metoder.exe
+C:\Users\axel.petersson2\Dropbox\programmering\programmering 2\MetoderÖvning\Metoder\bin\Debug\netcoreapp3.1\Metoder.deps.json
+C:\Users\axel.petersson2\Dropbox\programmering\programmering 2\MetoderÖvning\Metoder\bin\Debug\netcoreapp3.1\Metoder.runtimeconfig.json
+C:\Users\axel.petersson2\Dropbox\programmering\programmering 2\MetoderÖvning\Metoder\bin\Debug\netcoreapp3.1\Metoder.runtimeconfig.dev.json
+C:\Users\axel.petersson2\Dropbox\programmering\programmering 2\MetoderÖvning\Metoder\bin\Debug\netcoreapp3.1\Metoder.dll
+C:\Users\axel.petersson2\Dropbox\programmering\programmering 2\MetoderÖvning\Metoder\bin\Debug\netcoreapp3.1\Metoder.pdb
+C:\Users\axel.petersson2\Dropbox\programmering\programmering 2\MetoderÖvning\Metoder\obj\Debug\netcoreapp3.1\Metoder.csprojAssemblyReference.cache
+C:\Users\axel.petersson2\Dropbox\programmering\programmering 2\MetoderÖvning\Metoder\obj\Debug\netcoreapp3.1\Metoder.AssemblyInfoInputs.cache
+C:\Users\axel.petersson2\Dropbox\programmering\programmering 2\MetoderÖvning\Metoder\obj\Debug\netcoreapp3.1\Metoder.AssemblyInfo.cs
+C:\Users\axel.petersson2\Dropbox\programmering\programmering 2\MetoderÖvning\Metoder\obj\Debug\netcoreapp3.1\Metoder.csproj.CoreCompileInputs.cache
+C:\Users\axel.petersson2\Dropbox\programmering\programmering 2\MetoderÖvning\Metoder\obj\Debug\netcoreapp3.1\Metoder.dll
+C:\Users\axel.petersson2\Dropbox\programmering\programmering 2\MetoderÖvning\Metoder\obj\Debug\netcoreapp3.1\Metoder.pdb
+C:\Users\axel.petersson2\Dropbox\programmering\programmering 2\MetoderÖvning\Metoder\obj\Debug\netcoreapp3.1\Metoder.genruntimeconfig.cache
